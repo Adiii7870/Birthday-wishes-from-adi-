@@ -1,1 +1,88 @@
-# Birthday-wishes-from-adi-
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Happy Birthday Khushboo 🎂</title><style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Courier New', Courier, monospace;
+      background: black;
+      color: #00ffcc;
+      overflow: hidden;
+    }
+
+    h1.typing {
+      width: 16ch;
+      animation: typing 4s steps(16), blink .5s step-end infinite alternate;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: .15em solid #00ffcc;
+      margin: 80px auto 30px;
+      text-align: center;
+      font-size: 2.5em;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 16ch }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+
+    p {
+      text-align: center;
+      font-size: 1.4em;
+      margin: 20px;
+    }
+
+    .footer {
+      position: absolute;
+      bottom: 20px;
+      width: 100%;
+      text-align: center;
+      font-size: 1em;
+      color: #ccc;
+    }
+
+    .emoji {
+      position: absolute;
+      top: -2rem;
+      font-size: 2rem;
+      animation: floatDown linear infinite;
+    }
+
+    @keyframes floatDown {
+      0% {
+        transform: translateY(-5vh) rotate(0deg);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(110vh) rotate(360deg);
+        opacity: 0;
+      }
+    }
+
+    .photo {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .photo img {
+      width: 200px;
+      height: auto;
+      border-radius: 20px;
+      border: 4px solid #00ffcc;
+      box-shadow: 0 0 20px #00ffcc;
+    }
+  </style></head><body><audio autoplay loop><source src="https://www.bensound.com/bensound-music/bensound-romantic.mp3" type="audio/mp3"></audio><h1 class="typing">Happy Birthday</h1><div class="photo"><img src="https://postimg.cc/Xp5ZQTHX"></div><p>"Happy Birthday, my love! You make every moment magical just by being you. Here’s to us and forever more. 💖"</p><p>– From: Adi</p><p style="font-style: italic; color: #ff99cc; font-size: 1.3em; text-align: center; max-width: 700px; margin: 20px auto;">"In a sky full of stars, you're the brightest. In a world full of noise, your love is my favorite melody." 💫💞</p><div class="footer">Made with ❤️ in the Terminal 😎</div><div class="emoji" style="left:29vw; animation-delay:4.68s; animation-duration:2.93s;">😚</div><div class="emoji" style="left:87vw; animation-delay:4.02s; animation-duration:2.64s;">🫀</div><div class="emoji" style="left:82vw; animation-delay:0.43s; animation-duration:4.59s;">💞</div><div class="emoji" style="left:4vw; animation-delay:3.98s; animation-duration:3.03s;">😚</div><div class="emoji" style="left:75vw; animation-delay:1.71s; animation-duration:3.8s;">💖</div><div class="emoji" style="left:27vw; animation-delay:0.25s; animation-duration:2.31s;">🥰</div><div class="emoji" style="left:92vw; animation-delay:4.73s; animation-duration:4.59s;">💞</div><div class="emoji" style="left:67vw; animation-delay:0.03s; animation-duration:2.83s;">💖</div><div class="emoji" style="left:95vw; animation-delay:1.03s; animation-duration:3.6s;">🥰</div><div class="emoji" style="left:65vw; animation-delay:0.76s; animation-duration:3.25s;">💌</div><div class="emoji" style="left:29vw; animation-delay:2.05s; animation-duration:4.9s;">💌</div><div class="emoji" style="left:2vw; animation-delay:0.25s; animation-duration:4.11s;">💞</div><div class="emoji" style="left:37vw; animation-delay:0.61s; animation-duration:2.52s;">💖</div><div class="emoji" style="left:49vw; animation-delay:3.08s; animation-duration:4.57s;">🫀</div><div class="emoji" style="left:41vw; animation-delay:0.43s; animation-duration:3.65s;">🫀</div><div class="emoji" style="left:83vw; animation-delay:3.03s; animation-duration:3.44s;">🥰</div><div class="emoji" style="left:62vw; animation-delay:1.55s; animation-duration:3.74s;">😚</div><div class="emoji" style="left:42vw; animation-delay:2.71s; animation-duration:3.75s;">💖</div><div class="emoji" style="left:10vw; animation-delay:4.87s; animation-duration:2.32s;">🫀</div><div class="emoji" style="left:12vw; animation-delay:1.96s; animation-duration:3.14s;">💌</div><div class="emoji" style="left:49vw; animation-delay:0.56s; animation-duration:4.81s;">💞</div><div class="emoji" style="left:43vw; animation-delay:0.84s; animation-duration:2.84s;">💞</div><div class="emoji" style="left:43vw; animation-delay:3.01s; animation-duration:4.14s;">💖</div><div class="emoji" style="left:36vw; animation-delay:4.91s; animation-duration:3.41s;">🫀</div><div class="emoji" style="left:55vw; animation-delay:1.58s; animation-duration:4.75s;">💌</div><!-- Confetti JS --><script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script><script>
+    setTimeout(() => {
+      confetti({
+        particleCount: 200,
+        spread: 160,
+        origin: { y: 0.6 }
+      });
+    }, 3000);
+  </script></body></html>
